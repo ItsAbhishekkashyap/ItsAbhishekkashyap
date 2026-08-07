@@ -1,12 +1,11 @@
-
 <!-- Dynamic Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Abhishek!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=250&amp;section=header&amp;text=Hi,%20I'm%20Abhishek!&amp;fontSize=50&amp;fontAlignY=35&amp;animation=twinkling&amp;fontColor=ffffff" alt="Header Banner" />
 </div>
 
 <!-- Typing SVG Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Fellow+%40+High+Agency;Building+Scalable+SaaS+%26+AI+Pipelines;4th+Year+(7th+Sem)+ECE+%40+IET+Lucknow;Optimizing+DSA+in+C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Software+Engineering+Fellow+%40+High+Agency;Building+Scalable+SaaS+%26+AI+Pipelines;4th+Year+(7th+Sem)+ECE+%40+IET+Lucknow;Optimizing+DSA+in+C%2B%2B" alt="Typing SVG" />
 </div>
 
 <br>
@@ -19,19 +18,42 @@ I am a 4th-year (7th semester) Electronics and Communication Engineering student
 ### 🛠️ Technical Arsenal
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,cpp,py,html,css,nextjs,react,nodejs,express,tailwind,mongodb,mysql,supabase,prisma,redis,git,github,postman,vercel,jest&perline=7" alt="Abhishek's Skills" />
-  </a>
-</div>
+
+**🌐 Frontend & Languages**  
+<br>
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/E2E_Testing-2196F3?style=for-the-badge&logo=selenium&logoColor=white" />
+**⚙️ Backend, Databases & ORM**  
+<br>
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&amp;logo=prisma&amp;logoColor=white)
+
+<br>
+
+**🔧 Tools, APIs & Architecture**  
+<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&amp;logo=databricks&amp;logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&amp;logo=razorpay&amp;logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&amp;logo=zod&amp;logoColor=white)
+![Testing](https://img.shields.io/badge/Testing_&_QA-2196F3?style=for-the-badge&amp;logo=selenium&amp;logoColor=white)
+
 </div>
 
 ---
@@ -39,8 +61,8 @@ I am a 4th-year (7th semester) Electronics and Communication Engineering student
 ### 💼 Experience
 
 - **Software Engineering Fellow** @ *Panscience Innovations (High Agency)* — Co-developed AyuNidan, engineering a RAG-based clinical index pipeline and implementing secure, multi-tenant workflows.
-- **Full-Stack Development Intern** @ *Durga Foundation* — Migrated the NGO portal to Next.js, architected a multi-schema Prisma ORM setup, and developed a CBT exam system.
-- **Core Member** @ *Training & Placement Cell, IET Lucknow* — Designed and deployed the official placement portal and streamlined campus recruitment logistics.
+- **Full-Stack Development Intern** @ *Durga Foundation* — Migrated the NGO portal to Next.js, architected a multi-schema Prisma ORM setup, and developed a CBT exam system with automated proctoring.
+- **Core Member** @ *Training & Placement Cell, IET Lucknow* — Designed and deployed the official placement portal and streamlined campus recruitment logistics for visiting corporate teams.
 
 ---
 
@@ -67,43 +89,30 @@ I am a 4th-year (7th semester) Electronics and Communication Engineering student
 
 <div align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ItsAbhishekkashyap&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Abhishek's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ItsAbhishekkashyap&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" alt="Abhishek's Trophies" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsAbhishekkashyap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsAbhishekkashyap&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsAbhishekkashyap&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsAbhishekkashyap&amp;theme=radical&amp;hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAbhishekkashyap&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAbhishekkashyap&amp;layout=compact&amp;theme=radical&amp;hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
 ### 📫 Let's Connect & Collaborate!
 
-<div align="center">
-  <p>Always open to discussing scalable architectures, AI implementations, or solving complex DSA problems over a virtual coffee. ☕</p>
-</div>
+> **I am always open to discussing scalable architectures, AI implementations, or solving complex DSA problems over a virtual coffee. ☕**
 
-<div align="center">
-  <a href="https://abhishekgond.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/abhishek-gond">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:abhi47025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://leetcode.com/ItsAbhishekkashyap/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-</div>
+| 🌐 **Portfolio & Web** | 💼 **Professional Network** | 👨‍💻 **Coding & Algorithms** | ✉️ **Direct Contact** |
+|:---:|:---:|:---:|:---:|
+| <a href="https://abhishekgond.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a> | <a href="https://branqly.xyz/MyLinkdin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a> | <a href="https://leetcode.com/u/ItsAbhishekkashyap/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode" /></a> | <a href="mailto:abhi47025@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a> |
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ItsAbhishekkashyap&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ItsAbhishekkashyap&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile Views" />
 </div>
