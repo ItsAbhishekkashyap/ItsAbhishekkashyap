@@ -15,54 +15,35 @@ I am a 4th-year (7th semester) Electronics and Communication Engineering student
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Skills
 
-<div align="center">
-
-**🌐 Frontend & Languages**  
-<br>
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+📍 **Lucknow, India** | 🎓 **Batch: 2023 – 2027**
 
 <br>
 
-**⚙️ Backend, Databases & ORM**  
-<br>
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&amp;logo=prisma&amp;logoColor=white)
-
-<br>
-
-**🔧 Tools, APIs & Architecture**  
-<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&amp;logo=databricks&amp;logoColor=white)
-![JWT Auth](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&amp;logo=razorpay&amp;logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&amp;logo=zod&amp;logoColor=white)
-![Testing](https://img.shields.io/badge/Testing_&_QA-2196F3?style=for-the-badge&amp;logo=selenium&amp;logoColor=white)
-
-</div>
+- **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white)
+- **Frameworks:** ![Next.js](https://img.shields.io/badge/Next.js_(App_Router)-000000?style=flat-square&amp;logo=next.js&amp;logoColor=white) ![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&amp;logo=express&amp;logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white)
+- **Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&amp;logo=mongodb&amp;logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white) ![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&amp;logo=prisma&amp;logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white)
+- **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&amp;logo=databricks&amp;logoColor=white) ![JWT & OAuth](https://img.shields.io/badge/JWT_%26_Google_OAuth-000000?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&amp;logo=razorpay&amp;logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&amp;logo=zod&amp;logoColor=white)
+- **Testing:** ![Unit Testing](https://img.shields.io/badge/Unit_Testing-4CAF50?style=flat-square) ![Integration Testing](https://img.shields.io/badge/Integration_Testing-FF9800?style=flat-square) ![E2E Testing](https://img.shields.io/badge/E2E_Testing-2196F3?style=flat-square)
+- **Core Subjects:** Operating System, Computer Network, DBMS, AI & ML, Data Structure, Analysis Of Algorithms
 
 ---
 
 ### 💼 Experience
 
-- **Software Engineering Fellow** @ *Panscience Innovations (High Agency)* — Co-developed AyuNidan, engineering a RAG-based clinical index pipeline and implementing secure, multi-tenant workflows.
-- **Full-Stack Development Intern** @ *Durga Foundation* — Migrated the NGO portal to Next.js, architected a multi-schema Prisma ORM setup, and developed a CBT exam system with automated proctoring.
-- **Core Member** @ *Training & Placement Cell, IET Lucknow* — Designed and deployed the official placement portal and streamlined campus recruitment logistics for visiting corporate teams.
+* **Software Engineering Fellow | Panscience Innovations (High Agency)** *(July 2026)*
+  * Co-developed **AyuNidan**, an AI platform converting clinical narratives to structured JSON telemetry via zero-shot extraction and Zod validation.
+  * Engineered a RAG-based clinical index pipeline and a 3-tier deterministic risk-scoring engine, accelerating real-time triage decisions.
+  * Implemented JWT authentication and strict data isolation for multi-tenant workflows to safeguard healthcare data.
+
+* **Full-Stack Development Intern | Durga Foundation** *(Feb 2026 – Apr 2026)*
+  * Migrated the NGO portal to Next.js and engineered the full-stack "Youth Corner" platform using Node.js, Express, and MySQL.
+  * Architected an 11-client multi-schema Prisma ORM setup; integrated Redis caching and Razorpay for efficient donation processing.
+  * Developed a CBT exam system with automated proctoring and a JWT-secured, OTP-based student enrollment flow.
+
+* **Core Member | Training & Placement Cell (TPC), IET Lucknow** *(Sep 2025 – Aug 2026)*
+  * Streamlined campus recruitment logistics, bridging communication between visiting HR teams and candidates while digitizing placement data.
 
 ---
 
@@ -109,7 +90,7 @@ I am a 4th-year (7th semester) Electronics and Communication Engineering student
 
 | 🌐 **Portfolio & Web** | 💼 **Professional Network** | 👨‍💻 **Coding & Algorithms** | ✉️ **Direct Contact** |
 |:---:|:---:|:---:|:---:|
-| <a href="https://abhishekgond.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a> | <a href="https://branqly.xyz/MyLinkdin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a> | <a href="https://leetcode.com/u/ItsAbhishekkashyap/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode" /></a> | <a href="mailto:abhi47025@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a> |
+| <a href="https://abhishekgond.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a> | <a href="https://linkedin.com/in/abhishek-gond"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a> | <a href="https://leetcode.com/ItsAbhishekkashyap/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode" /></a> | <a href="mailto:abhi47025@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a> |
 
 <br>
 
