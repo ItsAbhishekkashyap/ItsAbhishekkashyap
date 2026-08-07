@@ -74,24 +74,24 @@ I am a 4th-year (7th semester) Electronics and Communication Engineering student
 
 ---
 
-### 📈 GitHub Analytics
+
+
+### 📊 Developer Performance Matrix
 
 <div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ItsAbhishekkashyap&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" alt="Abhishek's Trophies" />
+
+| 🚀 **Problem Solving & DSA** | 🔥 **Consistency & Streak** | 💻 **Engineering Impact** |
+| :---: | :---: | :---: |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-1404_Rating-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black) | ![Streak](https://img.shields.io/badge/Max_Streak-60_Days-00C3FF?style=for-the-badge&amp;logo=fire&amp;logoColor=white) | ![Contributions](https://img.shields.io/badge/GitHub-585%2B_Contributions-22c55e?style=for-the-badge&amp;logo=github&amp;logoColor=white) |
+| <sub>**400+ Problems Solved** <br> (LeetCode & GFG)</sub> | <sub>**Active Daily Execution** <br></sub> | <sub>**Production-Grade SaaS** <br> & AI Pipelines Built</sub> |
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsAbhishekkashyap&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsAbhishekkashyap&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAbhishekkashyap&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" width="55%" />
+  <img src="https://img.shields.io/badge/Primary_Stack-Next.js_%7C_TypeScript_%7C_Node.js_%7C_Prisma-000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white&amp;color=3B82F6" alt="Core Stack" />
+  <img src="https://img.shields.io/badge/Specialization-Multi--tenant_SaaS_%26_RAG_Pipelines-000000?style=for-the-badge&amp;logo=openai&amp;logoColor=white&amp;color=8B5CF6" alt="Specialization" />
 </div>
 
 ---
